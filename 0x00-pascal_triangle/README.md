@@ -1,6 +1,6 @@
 # 0x00. Pascal's Triangle 🔺
 
-elcome to the **Pascal's Triangle** project for the ALX Interview Preparation. In this project, you will implement an algorithm in Python to generate Pascal's Triangle up to a given number of rows.
+Welcome to the **Pascal's Triangle** project for the ALX Interview Preparation. In this project, you will implement an algorithm in Python to generate Pascal's Triangle up to a given number of rows.
 
 ## 📝 Learning Objectives
 
