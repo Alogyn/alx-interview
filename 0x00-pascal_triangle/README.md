@@ -29,20 +29,13 @@ This project includes the following:
 
 ### Read or Watch:
 
-- 📘 [What is Pascal's Triangle](https://www.mathsisfun.com/pascals-triangle.html)
-- 🎥 [Pascal's Triangle - Numberphile](https://www.youtube.com/watch?v=XMriWTvPXHI)
-- 🧑‍💻 [What are Python Algorithms](https://realpython.com/python-algorithms/)
+- 📘 [What is Pascal's Triangle](https://www.cuemath.com/algebra/pascals-triangle/)
+- 🎥 [Pascal's Triangle - Numberphile](https://www.youtube.com/watch?v=0iMtlus-afo)
+- 🧑‍💻 [What are Python Algorithms](https://builtin.com/data-science/python-algorithms)
 
 ### Additional Resources
 
-- 🗣️ [Mock Technical Interview](https://www.alxafrica.com/mock-interview)
-- 🔑 [Must Know Python Concepts](https://www.programiz.com/python-programming)
-
-## 📂 Repository
-
-- **GitHub repository:** [alx-interview](https://github.com/username/alx-interview)
-- **Directory:** `0x00-pascal_triangle`
-- **File:** `0-pascal_triangle.py`
+- 🗣️ [Mock Technical Interview](https://www.youtube.com/watch?v=1qw5ITr3k9E)
 
 ## 📜 License
 
