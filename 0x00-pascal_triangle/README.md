@@ -18,7 +18,7 @@ By completing this project, you will:
 This project includes the following:
 
 1. 🛠️ **Pascal's Triangle Function**
-    - **File:** `0-pascal_triangle.py`
+    - **File:** [0-pascal_triangle.py](0-pascal_triangle.py)
     - **Description:** Implements the `pascal_triangle(n)` function that returns a list of lists of integers representing Pascal's Triangle of size `n`. It returns an empty list if `n <= 0`.
 
 2. 🧪 **Main File for Testing**
