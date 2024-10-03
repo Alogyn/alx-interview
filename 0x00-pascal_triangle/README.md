@@ -22,7 +22,7 @@ This project includes the following:
     - **Description:** Implements the `pascal_triangle(n)` function that returns a list of lists of integers representing Pascal's Triangle of size `n`. It returns an empty list if `n <= 0`.
 
 2. 🧪 **Main File for Testing**
-    - **File:** `0-main.py`
+    - **File:** [0-main.py](0-main.py)
     - **Description:** Contains a test case that calls the `pascal_triangle()` function with `n = 5` and prints the triangle.
 
 ## 📚 Resources
