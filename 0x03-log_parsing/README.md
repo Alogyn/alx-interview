@@ -59,7 +59,7 @@ This project includes the following tasks:
    cd alx-interview/0x03-log_parsing
    ```
 
-3.**Make the script executable:**
+3. **Make the script executable:**
    Ensure your script has execute permissions:
    ```bash
    chmod +x 0-stats.py
