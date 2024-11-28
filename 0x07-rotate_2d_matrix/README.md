@@ -42,4 +42,8 @@ Rotate an `n x n` 2D matrix **90 degrees clockwise** **in-place** without return
 ### Function Prototype
 ```python
 def rotate_2d_matrix(matrix):
-
+```
+- **Input**: A 2D matrix represented as a list of lists.
+- **Output**: None. The matrix is rotated in-place.
+- **Assumptions**:
+The matrix will always be 2-dimensional and non-empty.
