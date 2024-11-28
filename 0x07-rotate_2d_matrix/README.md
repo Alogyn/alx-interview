@@ -1,1 +1,45 @@
-.
+# 0x07. Rotate 2D Matrix 🔄
+
+![Python](https://img.shields.io/badge/Python-3.8.10-blue?style=flat-square&logo=python) ![Algorithm](https://img.shields.io/badge/Algorithm-Matrix_Manipulation-lightgrey?style=flat-square&logo=python)
+
+## 📖 Project Overview
+This project focuses on implementing an **in-place** algorithm to rotate an `n x n` 2D matrix by **90 degrees clockwise**. The task challenges you to understand and apply concepts like matrix transposition, reversing rows, and optimizing in-place operations in Python.
+
+## 🎯 Learning Objectives
+- 🧩 **Matrix Manipulation**: Learn to handle 2D data structures in Python effectively.
+- 🚀 **In-place Operations**: Minimize space complexity by modifying the matrix directly.
+- 🔄 **Matrix Transposition and Row Reversal**: Master the two-step process for rotating a matrix.
+
+## 🛠️ Technologies Used
+- ![Python](https://img.shields.io/badge/Python-3.8.10-blue?style=flat-square&logo=python) **Python 3.8.10** on **Ubuntu 20.04 LTS**
+- **Pycodestyle** (v2.8.0) for code style and formatting
+
+## 📋 Requirements
+- Files must run on **Ubuntu 20.04 LTS** using `python3` (version 3.8.10).
+- Files should start with `#!/usr/bin/python3`.
+- Code must adhere to **Pycodestyle** standards.
+- No external modules may be imported.
+- Functions and modules must be documented.
+
+## 🚀 Installation and Usage
+
+1. **Clone the Repository**:
+    ```bash
+    git clone https://github.com/your-username/alx-interview
+    cd 0x07-rotate_2d_matrix
+    ```
+
+2. **Run the Script**:
+    ```bash
+    ./main_0.py
+    ```
+
+## 📝 Task: Rotate 2D Matrix 🔄
+
+### Objective
+Rotate an `n x n` 2D matrix **90 degrees clockwise** **in-place** without returning anything.
+
+### Function Prototype
+```python
+def rotate_2d_matrix(matrix):
+
