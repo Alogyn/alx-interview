@@ -47,3 +47,59 @@ def rotate_2d_matrix(matrix):
 - **Output**: None. The matrix is rotated in-place.
 - **Assumptions**:
     - The matrix will always be 2-dimensional and non-empty.
+### Example
+**Input**:
+```python
+matrix = [
+    [1, 2, 3],
+    [4, 5, 6],
+    [7, 8, 9]
+]
+```
+**Output**:
+```python
+[
+    [7, 4, 1],
+    [8, 5, 2],
+    [9, 6, 3]
+]
+```
+###Steps to Rotate
+1. Transpose the Matrix:
+- Swap rows with columns.
+```python
+[
+    [1, 2, 3],
+    [4, 5, 6],
+    [7, 8, 9]
+]
+→ 
+[
+    [1, 4, 7],
+    [2, 5, 8],
+    [3, 6, 9]
+]
+```
+2. Reverse Each Row:
+- Reverse the elements in each row.
+```python
+[
+    [1, 4, 7],
+    [2, 5, 8],
+    [3, 6, 9]
+]
+→ 
+[
+    [7, 4, 1],
+    [8, 5, 2],
+    [9, 6, 3]
+]
+```
+## 🌐 Resources
+- Matrix Manipulation
+- Transpose a Matrix in Python
+- Python List Documentation
+
+##⚖️ License
+This project is part of the ALX Software Engineering Program.
+© 2024 ALX. All rights reserved.
