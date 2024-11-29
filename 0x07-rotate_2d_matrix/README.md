@@ -25,8 +25,8 @@ This project focuses on implementing an **in-place** algorithm to rotate an `n x
 
 1. **Clone the Repository**:
     ```bash
-    git clone https://github.com/your-username/alx-interview
-    cd 0x07-rotate_2d_matrix
+    git clone https://github.com/Alogyn/alx-interview
+    cd /alx-interview/0x07-rotate_2d_matrix
     ```
 
 2. **Run the Script**:
