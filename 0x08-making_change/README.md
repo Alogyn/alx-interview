@@ -26,8 +26,8 @@ This project involves solving the **coin change problem**, a classic challenge i
 
 1. **Clone the Repository**:
     ```bash
-    git clone https://github.com/your-username/alx-interview
-    cd 0x08-making_change
+    git clone https://github.com/Alogyn/alx-interview
+    cd alx-interview/0x08-making_change
     ```
 
 2. **Run the Script**:
