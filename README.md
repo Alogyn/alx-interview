@@ -80,8 +80,7 @@ Welcome to the **ALX Interview Repository**! This collection showcases a series 
 ## ✍️ Author
 - **Mohamed Derfoufi**  
   📧 mohamed.derfoufi.tech@tech.com   
-  ![image](https://github.com/user-attachments/assets/f346ab04-27e9-4d74-a697-85e0f1d51390)
- (www.linkedin.com/in/derfoufi-mohamed)
+  ![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=social&logo=linkedin)](https://www.linkedin.com/in/your-profile/) www.linkedin.com/in/derfoufi-mohamed
 
 ---
 
