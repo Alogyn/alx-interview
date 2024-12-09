@@ -23,7 +23,6 @@ Welcome to the **ALX Interview Repository**! This collection showcases a series 
 
 ### 4. [0x03. Log Parsing](0x03-log_parsing)
 📜 **About**: Parse server logs and compute metrics such as file sizes and request counts.
-⏳ **Updated**: 2 months ago
 
 ---
 
