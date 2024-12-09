@@ -79,8 +79,8 @@ Welcome to the **ALX Interview Repository**! This collection showcases a series 
 
 ## ✍️ Author
 - **Mohamed Derfoufi**  
-  📧 mohamed.derfoufi.tech@tech.com   
-  ![LinkedIn] www.linkedin.com/in/derfoufi-mohamed
+   📧 [mohamed.derfoufi.tech@tech.com](mailto:mohamed.derfoufi.tech@tech.com)
+   [![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=social&logo=linkedin)](https://www.linkedin.com/in/derfoufi-mohamed)
 
 ---
 
